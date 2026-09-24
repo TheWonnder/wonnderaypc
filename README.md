@@ -71,13 +71,6 @@ Wonnderay подключает компьютер к **вашему собств
 | Linux | [wonnderaylinux](https://github.com/TheWonnder/wonnderaylinux) | Пакет `.pacman` и `.tar.gz` |
 | iOS | [wonnderayios](https://github.com/TheWonnder/wonnderayios) | `.deb` для устройства с джейлбрейком |
 
-## Правило приложения
-
-**Ничего не имитировать.** «Подключено» загорается только после живого ядра
-**и** поднятого маршрута. Счётчики трафика читаются из ядра, а пинг показывает
-измеренное значение либо честный прочерк — никаких правдоподобных чисел вместо
-ответа.
-
 ## Поддержка
 
 Telegram — [@neowixtg](https://t.me/neowixtg)
